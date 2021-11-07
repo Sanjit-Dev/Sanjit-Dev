@@ -1,6 +1,5 @@
 ### Hi there, I'm Rojan - aka [RojanGamingYT](https://dedsecbot.tk) 👋
 <div align="left"><img alt="RojanGamingYT"src="https://discord.c99.nl/widget/theme-2/882871054081597470.png"></div>
-<div align="left"><img alt="RojanGamingYT"src="https://komarev.com/ghpvc/?username=RojanGamingYT&style=flat-square&label=PROFILE+VIEWS&color=lightgrey">
 
 [![Website](https://img.shields.io/website?label=dedsecbot.tk&style=for-the-badge&url=https%3A%2F%2Fdedsecbot.tk)](https://dedsecbot.tk)
 
